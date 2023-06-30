@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">YuyaTa</string>
+    <string name="welcome_title"><b>BIENVENIDO</b></string>
+    <string name="welcome_desc">Por favor inicia sesión o regístrate</string>
+    <string name="welcome_btn_login">Iniciar sesión</string>
+    <string name="welcome_btn_register">Regístrarse</string>
+    <string name="register_title"><b>Ingresa tus datos</b></string>
+    <string name="register_input_names">Nombres</string>
+    <string name="register_input_lastnames">Apellidos</string>
+    <string name="register_input_birthdate">Fecha de nacimiento</string>
+    <string name="register_input_dni">Número de DNI</string>
+    <string name="register_btn_register">Registrarse</string>
+    <string name="login_title"><b>Hola!</b></string>
+    <string name="login_desc">Por favor ingresa tu DNI para continuar</string>
+    <string name="login_input_dni">Ingresa aquí tu DNI</string>
+    <string name="login_btn_login">INICIAR SESIÓN</string>
+    <string name="Doses">Dosis</string>
+    <string name="Map">Mapa</string>
+    <string name="Statitic">Estadística</string>
+    <string name="CompleteFields">Completar campos</string>
+    <string name="ExistingUser">Usuario ya creado</string>
+    <string name="ThisUserDoesNotExit">El usuario no existe, por favor registrarse!</string>
+
+    <string name="newdosis_title"><b>Registrar</b> nueva dosis</string>
+    <string name="newdosis_form_names_hint">Nombre </string>
+    <string name="newdosis_form_Fecha_hint">Fecha </string>
+    <string name="newdosis_form_Estado_hint">Estado </string>
+    <string name="newdosis_form_Completo">Completo </string>
+    <string name="newdosis_form_No_Realizado">No realizado </string>
+    <string name="hello_blank_fragment">Hola fragment vacío</string>
+    <string name="date">Fecha</string>
+    <string name="hour">Hora</string>
+
+    <string name="toast_location_not_found">Localización No Encontrada</string>
+    <string name="toast_location_search">Escriba su busqueda por favor</string>
+    <string name="toast_location_permission_2">Ve a ajustes y acepta los permisos</string>
+    <string name="current_location">Mi Ubicacion Actual es</string>
+
+    <string name="Amount_of_medicines_per_day">Cantidad de medicinas por día</string>
+
+    <string name="have">Tienes </string>
+    <string name="pending"> medicamentos pendientes para hoy</string>
+
+    <string name="search">Buscar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
